@@ -10,7 +10,7 @@
 
                 <div class="ml-0 md:ml-20 mt-10 md:mt-0 md:w-1/2">
                     <h3 class="text-xl font-bold text-center">Описание:</h3>
-                    <p class="mt-5 text-left md:text-center">ShResume - это инновационная онлайн-платформа, которая поможет вам создать профессиональное резюме в удобном формате и с легкостью скачать его для представления потенциальным работодателям. Сочетая в себе простоту использования и передовые технологии, ShResume обеспечивает максимальное удобство в создании и настройке вашего резюме.</p>
+                    <p class="mt-5 text-left md:text-center">ShResume - это простая онлайн-платформа, которая поможет вам создать простое резюме и скачать его.</p>
                     <p class="mt-10 font-bold text-left md:text-center">Использованный стек: Vue.js, Tailwind</p>
                 </div> 
             </div>
@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-import Header from '../Header.vue'
-import Footer from '../Footer.vue'
+import Header from '../components/Header.vue'
+import Footer from '../components/Footer.vue'
 
 </script>
