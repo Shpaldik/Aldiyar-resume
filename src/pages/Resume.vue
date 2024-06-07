@@ -8,21 +8,12 @@
   </div>
 </template>
   
-  <script>
+  <script setup>
   import Header from '../components/Header.vue';
   import Info from '../components/Info.vue';
   import Projects from '../components/Projects.vue';
   import History from '../components/History.vue';
   import Footer from '../components/Footer.vue';
-  
-  export default {
-    components: {
-      Header,
-      Info,
-      Projects,
-      History,
-      Footer
-    }
-  }
+
   </script>
   
