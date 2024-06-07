@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+
+body {
+    background: #050822;
+    color: white;
+    margin: 0 120px; /* Исходные отступы */
+}
+
+@media (max-width: 1400px) {
+    body {
+        margin: 0 80px; /* Отступы для экранов до 1400px */
+    }
+}
+
+@media (max-width: 768px) {
+    body {
+        margin: 0 20px; /* Отступы для экранов до 768px */
+    }
+}
