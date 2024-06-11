@@ -30,7 +30,7 @@
             <div class="bg-gray border border-border p-5 md:p-8 rounded-xl w-full">
                 <h1 class="text-3xl">Vue/Nuxt Strong Junior/Pre-Middle</h1>
                 <div class="flex flex-wrap gap-5 mt-5">
-                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">350К+</button>
+                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">300К</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">График: 5/2</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Удаленная работа</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Оформление через ТК</button>
