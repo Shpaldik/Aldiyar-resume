@@ -30,9 +30,9 @@
             <div class="bg-gray border border-border p-5 md:p-8 rounded-xl w-full">
                 <h1 class="text-3xl">Vue/Nuxt Strong Junior/Pre-Middle</h1>
                 <div class="flex flex-wrap gap-5 mt-5">
-                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">300К</button>
+                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">200к-250к 〒</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">График: 5/2</button>
-                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Удаленная работа</button>
+                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Офис/Удаленная работа</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Оформление через ТК</button>
                 </div>
                 <p class="mt-4">Привет! Меня зовут Алдияр, мне 17 лет, живу в Казахстане в городе караганда и учусь на втором курсе колледжа. С 14 лет увлекаюсь программированием, а в 15 стал фронтенд-разработчиком. Начинал с парсеров и авторегов на C#, затем перешёл на фронтенд. Стажировался в BankaiShop, где вырос до Junior-разработчика. Разрабатывал функционал для сайтов: магазины, каталоги, блоги. В мои обязанности входили адаптация сайта под праздники, создание красивых аккордеонов и каруселей, работа с бэкендом и адаптация под мобильные устройства и т.д. В свободное время создаю проекты: форум для поступающих, сервис для резюме, блоги для поступающих и их услуг. Сейчас работаю над стартапом и стремлюсь стать full-stack разработчиком. Интересуюсь Node/Nest.js и планирую вырасти до Middle уровня до конца года.</p>
