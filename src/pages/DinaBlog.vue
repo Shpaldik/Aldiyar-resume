@@ -1,6 +1,6 @@
 <template>
     <Header />
-    <section class="mt-10 md:mt-40">
+    <section class="mt-10 md:mt-40 mb:mt-20">
       <div class="max-w-screen-lg mx-auto">
         <h1 class="text-3xl text-center font-bold">DinaBlog</h1>
         <div class="flex flex-col md:flex-row items-center justify-center md:justify-start mt-10">
