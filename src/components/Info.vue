@@ -11,6 +11,7 @@
                     <img src="/public/Icons/tailwind.svg" alt="" width="30">
                     <img src="/public/Icons/sass.svg" alt="" width="30">
                     <img class="rounded-xl" src="/public/Icons/js.svg" alt="" width="30">
+                    <img src="/public/typescript.svg" alt="" width="30">
                     <img src="/public/Icons/vue.svg" alt="" width="30">
                     <img src="/public/Icons/nuxt.svg" alt="" width="30">
                     <img class="rounded-xl" src="/public/git.svg" alt="" width="30">
