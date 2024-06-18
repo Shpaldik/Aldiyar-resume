@@ -20,7 +20,7 @@
                 </div>
             </div>
             <div class="bg-gray border border-border p-5 md:p-8 rounded-xl w-full">
-                <h1 class="text-3xl text-center md:text-left">Vue/Nuxt Strong Junior/Pre-Middle</h1>
+                <h1 class="text-3xl text-center font-bold md:text-left">Vue/Nuxt Strong Junior</h1>
                 <div class="flex flex-wrap gap-5 mt-5 justify-center md:justify-start">
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">300к 〒</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">График: 5/2</button>
