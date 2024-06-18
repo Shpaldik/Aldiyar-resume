@@ -42,10 +42,10 @@ export default {
   data() {
     return {
       projects: [
-        { title: 'ADProject', imageSrc: '/public/ADP.png', route: 'ADProject' },
-        { title: 'Make-Resume', imageSrc: '/public/Cards.png', route: 'MakeResume' },
-        { title: 'Dina-blog', imageSrc: '/public/DinaBlog.jpg', route: 'DinaBlog' },
-        { title: 'Weather-Site', imageSrc: '/public/Weather.png', url: 'https://new-weather-site.vercel.app/' }
+        { title: 'ADProject', imageSrc: '/ADP.png', route: 'ADProject' },
+        { title: 'Make-Resume', imageSrc: '/Cards.png', route: 'MakeResume' },
+        { title: 'Dina-blog', imageSrc: '/DinaBlog.jpg', route: 'DinaBlog' },
+        { title: 'Weather-Site', imageSrc: '/Weather.png', url: 'https://new-weather-site.vercel.app/' }
       ],
       currentIndex: 0,
       visibleProjects: [],
