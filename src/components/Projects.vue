@@ -17,7 +17,11 @@
              :style="{ transform: `translateX(${translateX}px)` }"
              ref="projectContainer">
           <div v-for="(project, index) in visibleProjects" :key="index" class="project-container bg-gray border border-gray-300 p-5 rounded-xl hover:border-green duration-300 transform hover:-translate-y-1 w-full md:w-auto mt-3">
-            <a :href="project.url" target="_blank" rel="noopener noreferrer">
+            <router-link v-if="project.route" :to="{ name: project.route }">
+              <p class="text-center text-2xl md:text-3xl">{{ project.title }}</p>
+              <img class="rounded-xl mt-5 md:mt-9 mx-auto" :src="project.imageSrc" :alt="project.title" width="300" height="200">
+            </router-link>
+            <a v-else :href="project.url" target="_blank" rel="noopener noreferrer">
               <p class="text-center text-2xl md:text-3xl">{{ project.title }}</p>
               <img class="rounded-xl mt-5 md:mt-9 mx-auto" :src="project.imageSrc" :alt="project.title" width="300" height="200">
             </a>
