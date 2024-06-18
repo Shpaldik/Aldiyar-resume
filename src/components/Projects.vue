@@ -24,7 +24,6 @@
           </div>
         </div>
 
-        <!-- Правая кнопка для ПК -->
         <div class="hidden md:block absolute right-0 top-1/2 transform -translate-y-1/2 z-10">
           <button @click="scrollProjects(1)" class="text-green-500 hover:text-green-700 focus:outline-none">
             <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
