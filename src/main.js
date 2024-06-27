@@ -7,13 +7,16 @@ import App from './App.vue';
 import Resume from './pages/Resume.vue';
 import MakeResume from './pages/MakeResume.vue';
 import DinaBlog from './pages/DinaBlog.vue';
+import ExchangeRate from './pages/ExchangeRates.vue';
 
 const app = createApp(App);
 const routes = [
   { path: '/', name: 'Resume', component: Resume },
   { path: '/MakeResume', name: 'MakeResume', component: MakeResume },
   { path: '/DinaBlog', name: 'DinaBlog', component: DinaBlog },
+  { path: '/ExchangeRate', name: 'ExchangeRate', component: ExchangeRate }
 ];
+
 
 const router = createRouter({
   history: createWebHistory(),

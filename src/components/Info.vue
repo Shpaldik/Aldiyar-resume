@@ -17,19 +17,19 @@
                     <img class="rounded-xl" src="/public/git.svg" alt="" width="30">
                 </div>
                 <div class="flex justify-center mt-5 w-full">
-                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">2.5 года опыта</button>
+                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">1.5 года опыта</button>
                 </div>
             </div>
             <div class="bg-gray border border-border p-5 md:p-8 rounded-xl w-full">
-                <h1 class="text-3xl text-center font-bold md:text-left">Vue/Nuxt strong Junior</h1>
+                <h1 class="text-3xl text-center font-bold md:text-left">Vue/Nuxt Junior+</h1>
                 <div class="flex flex-wrap gap-5 mt-5 justify-center md:justify-start">
-                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">300к 〒</button>
+                    <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">200к 〒</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">График: 5/2</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Офис/Удаленная работа</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Оформление через ТК/ГПХ/ИП</button>
                 </div>
                 <p class="mt-4 text-center md:text-left">
-                    Привет! Меня зовут Алдияр, мне 17 лет, живу в Караганде, Казахстан. Учусь на втором курсе колледжа и с 14 лет увлекаюсь программированием. В 15 лет стал фронтенд-разработчиком, стажировался в BankaiShop, где вырос до Junior-разработчика. Мои навыки включают продвинутое знание HTML, CSS, JavaScript, Vue.js, Nuxt.js, Vuex/Pinia, REST API, адаптивный дизайн, Tailwind, SCSS/Sass, Git, Webpack, Node.js, Puppeteer. Я занимаюсь созданием компонентов, управлением состоянием и оптимизацией производительности приложений.
+                    Привет! Меня зовут Алдияр, мне 17 лет, живу в Караганде, Казахстан. Учусь на втором курсе колледжа и с 15 лет увлекаюсь программированием. В 16 лет стал фронтенд-разработчиком, стажировался в BankaiShop, где вырос до Junior-разработчика. Мои навыки включают продвинутое знание HTML, CSS, JavaScript, Vue.js, Nuxt.js, Pinia, REST API, адаптивный дизайн, Tailwind, SCSS/Sass, Git, Node.js(без бэкенда), Puppeteer. Я занимаюсь созданием компонентов, управлением состоянием и оптимизацией производительности приложений.
                 </p>
             </div>
         </div>
