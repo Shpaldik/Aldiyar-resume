@@ -10,7 +10,6 @@
       <div class="middle:hidden md:flex items-center gap-10">
         <router-link to="/" @click.native="scrollToSection('info-section')" class="hover:text-green duration-300">Обо мне</router-link>
         <router-link to="/" @click.native="scrollToSection('projects-section')" class="hover:text-green duration-300">Проекты</router-link>
-        <router-link to="/" @click.native="scrollToSection('history-section')" class="hover:text-green duration-300">Опыт</router-link>
       </div>
       <div class="">
         <a href="https://t.me/shpaldik">

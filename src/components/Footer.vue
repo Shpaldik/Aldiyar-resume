@@ -14,9 +14,6 @@
         <a href="https://www.linkedin.com/in/bolat-aldiyar-063697312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
           <img src="/public/linkedin.svg" alt="LinkedIn" width="18">
         </a>
-        <a href="https://hh.kz/resume/073adb34ff0d49b77e0039ed1f49435a645431" target="_blank">
-          <img src="/public/hh.svg" alt="hh" width="37">
-        </a>
         <a href="https://t.me/shpaldik" target="_blank" class="footer-icon">
           <img src="/public/telegram.png" alt="Telegram" width="23">
         </a>

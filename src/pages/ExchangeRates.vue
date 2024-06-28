@@ -9,7 +9,7 @@
           </video>
           <div class="ml-0 md:ml-20 mt-10 md:mt-0 md:w-1/2">
             <h3 class="text-xl font-bold text-center">Описание:</h3>
-            <p class="mt-5 text-left md:text-center">Верстка и адаптация, работа с АПИ - подкление курсов и изменение монет, СЕО оптимизация,.
+            <p class="mt-5 text-left md:text-center">Верстка и адаптация, работа с АПИ - подключение курсов и изменение монет, СЕО оптимизация,.
             </p>
             <p class="mt-10 font-bold text-left md:text-center">Использованный стек: Vue, RestFul API, Tailwind CSS, SEO</p>
           </div>
