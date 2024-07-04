@@ -47,7 +47,6 @@ export default {
     return {
       projects: [
         { title: 'ExchangeRate', imageSrc: '/Untitled.png', route: 'ExchangeRate' },
-        { title: 'ADProject', imageSrc: '/ADP.png'},
         { title: 'Make-Resume', imageSrc: '/Cards.png', route: 'MakeResume' },
         { title: 'Dina-blog', imageSrc: '/DinaBlog.jpg', route: 'DinaBlog' },
         { title: 'Weather-Site', imageSrc: '/Weather.png', url: 'https://new-weather-site.vercel.app/' },
