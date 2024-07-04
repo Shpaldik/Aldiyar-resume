@@ -21,14 +21,14 @@
                 </div>
             </div>
             <div class="bg-gray border border-border p-5 md:p-8 rounded-xl w-full">
-                <h1 class="text-3xl text-center font-bold md:text-left">Vue/Nuxt Junior</h1>
+                <h1 class="text-3xl text-center font-bold md:text-left">Frontend Developer</h1>
                 <div class="flex flex-wrap gap-5 mt-5 justify-center md:justify-start">
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">График: 5/2</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Офис/Удаленная работа</button>
                     <button class="bg-green p-2 rounded-xl w-full md:w-auto md:px-4">Оформление через ТК</button>
                 </div>
                 <p class="mt-4 text-center md:text-left">
-                    Привет! Меня зовут Алдияр, мне 17 лет, и я живу в городе Караганда, Казахстан. Я учусь на втором курсе колледжа и очень заинтересован в поиске стажировки по Frontend разработке. Я хочу получить практический опыт и развить свои навыки в этой области. Буду рад любым возможностям или предложениям, связанным с Frontend разработкой. Умею работать с версткой, мобильной адаптации, taiwlind, sccs/sass, js/ts, vue/nuxt(+ router), node.js, git/github.
+                    Привет! Меня зовут Алдияр, мне 17 лет, и я живу в городе Караганда, Казахстан. Я учусь на втором курсе колледжа и очень заинтересован в поиске стажировки по Frontend разработке. В колледже мне предоставили полное свободное посещение от занятий, так как меня там записали на участие в олимпиаде WorldSkills на следующий год. Я хочу получить практический опыт и развить свои навыки в этой области. Буду рад любым возможностям или предложениям, связанным с Frontend разработкой. Я умею работать с версткой, мобильной адаптацией, Tailwind CSS, SCSS/SASS, JavaScript/TypeScript, Vue.js/Nuxt.js (включая router), Node.js, Git/GitHub.
                 </p>
             </div>
         </div>
