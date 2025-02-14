@@ -11,9 +11,10 @@
                     <img src="/public/Icons/tailwind.svg" alt="" width="30">
                     <img src="/public/Icons/sass.svg" alt="" width="30">
                     <img class="rounded-xl" src="/public/Icons/js.svg" alt="" width="30">
-                    <img src="/public/typescript.svg" alt="" width="30">
+                    <img src="/public/Icons/php.png" alt="" width="30">
                     <img src="/public/Icons/vue.svg" alt="" width="30">
                     <img src="/public/Icons/nuxt.svg" alt="" width="30">
+                    <img src="/public/Icons/laravel.svg" alt="" width="30">
                     <img class="rounded-xl" src="/public/git.svg" alt="" width="30">
                 </div>
                 <div class="flex justify-center mt-5 w-full">
@@ -30,7 +31,22 @@
                 <p class="mt-4 text-center md:text-left">
                     Привет! Меня зовут Алдияр, мне 18 лет, и я живу в Караганде, Казахстан. Я учусь на втором курсе колледжа и активно развиваюсь в сфере Frontend-разработки. Благодаря участию в олимпиаде WorldSkills - web, мне предоставлено полное свободное посещение занятий, что позволяет сосредоточиться на практическом опыте и профессиональном росте.
 
-                    Ищу стажировку или первую работу в области веб-разработки, готов работать как Frontend, Backend или Fullstack-разработчик, в зависимости от задач компании. Дополнительно, мой уровень английского B2-C1 (IELTS ACADEMIC - 6.0)
+                    Ищу стажировку или первую работу в области веб-разработки, готов работать как Frontend, Backend или Fullstack-разработчик, в зависимости от задач компании. Дополнительно, мой уровень английского B2-C1 (IELTS ACADEMIC - 6.0). Мой стек: HTML
+CSS
+SCSS/SASS
+Tailwind CSS
+JavaScript (ES6+)
+Vue.js
+Nuxt.js
+Backend:
+PHP
+Laravel
+MySQL
+REST API
+Дополнительно:
+VPS (Ubuntu)
+Git (GitHub)
+Figma
                 </p>
             </div>
         </div>
