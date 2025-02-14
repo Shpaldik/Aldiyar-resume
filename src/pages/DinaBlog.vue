@@ -5,7 +5,6 @@
         <h1 class="text-3xl text-center font-bold">DinaBlog</h1>
         <div class="flex flex-col md:flex-row items-center justify-center md:justify-start mt-10">
           <video class="rounded-xl mt-10 md:mt-0 w-full md:w-1/2" controls>
-            <source src="/public/DinaBlog.mp4" type="video/mp4">
           </video>
           <div class="ml-0 md:ml-20 mt-10 md:mt-0 md:w-1/2">
             <h3 class="text-xl font-bold text-center">Описание:</h3>

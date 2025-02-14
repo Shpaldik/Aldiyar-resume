@@ -46,9 +46,9 @@ export default {
   data() {
     return {
       projects: [
-        { title: 'ExchangeRate', imageSrc: '/Untitled.png', route: 'ExchangeRate' },
-        { title: 'Make-Resume', imageSrc: '/Cards.png', route: 'MakeResume' },
-        { title: 'Dina-blog', imageSrc: '/DinaBlog.jpg', route: 'DinaBlog' },
+        { title: 'ExchangeRate', imageSrc: '/Untitled.png', url: 'https://exchange-rates-two-iota.vercel.app/' },
+        { title: 'StopMigraine-forum', imageSrc: '/forum.png', url: 'https://stopmigraine.website/' },
+        { title: 'Neuroscience', imageSrc: '/article.png', url: 'https://stop-migraine.vercel.app/' },
         { title: 'Weather-Site', imageSrc: '/Weather.png', url: 'https://new-weather-site.vercel.app/' },
         
 

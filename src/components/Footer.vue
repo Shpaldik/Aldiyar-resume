@@ -3,7 +3,7 @@
     <div class="container mx-auto flex flex-col md:flex-row justify-between items-center">
       <div class="mb-4 md:mb-0 text-center md:text-left">
         <h2 class="text-lg md:text-2xl font-bold">Aldyar's Resume</h2>
-        <p class="mt-1">© 2024 Все права защищены.</p>
+        <p class="mt-1">© 2025 Все права защищены.</p>
       </div>
       <div class="flex items-center mt-4 md:mt-0 gap-6">
         <a href="https://github.com/Shpaldik" alt="GitHub" target="_blank" class="footer-icon">
