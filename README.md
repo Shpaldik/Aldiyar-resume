@@ -1,29 +1,28 @@
-# Resume
+# 💼 Aldiyar's Resume  
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern **Full Stack Developer** portfolio built with **Vue.js and Tailwind CSS**, showcasing skills, experience, and projects.  
 
-## Recommended IDE Setup
+## 🚀 Features  
+✔️ Clean and responsive UI  
+✔️ Dark mode design 🌙  
+✔️ Detailed skill & experience section  
+✔️ Contact section for hiring opportunities  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🛠️ Tech Stack  
+- **Frontend:** Vue 3, Tailwind CSS  
+- **Backend:** Laravel, MySQL  
+- **Tools:** Git (GitHub), Figma  
+- **Hosting:** Vercel  
 
-## Customize configuration
+## 📸 Screenshot  
+![screencapture-resume-aldiyar-azure-vercel-app-2025-04-03-20_00_04](https://github.com/user-attachments/assets/ea12cd9f-fe85-4fc7-bb5b-297fe210089d)
+![screencapture-resume-aldiyar-azure-vercel-app-2025-04-03-20_00_27](https://github.com/user-attachments/assets/3f0c5016-eb41-4dad-a1bb-fd0d5764f037)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
-
+## 📦 Installation  
 ```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+git clone https://github.com/yourusername/resume.git  
+cd resume  
+npm install  
+npm run dev  
+``
