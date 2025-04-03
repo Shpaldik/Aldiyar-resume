@@ -10,7 +10,6 @@ A modern **Full Stack Developer** portfolio built with **Vue.js and Tailwind CSS
 
 ## 🛠️ Tech Stack  
 - **Frontend:** Vue 3, Tailwind CSS  
-- **Backend:** Laravel, MySQL  
 - **Tools:** Git (GitHub), Figma  
 - **Hosting:** Vercel  
 
